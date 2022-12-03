@@ -22,7 +22,8 @@ jobs:
       - name: Logseq Publish
         uses: pengx17/logseq-publish@main
         with:
-          version: "master"
+          dest: www
+          theme: dark
       - name: add a nojekyll file
         run: touch $GITHUB_WORKSPACE/www/.nojekyll
       - name: Deploy 
