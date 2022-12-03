@@ -1,4 +1,6 @@
-name: logseq-to-pages
+# This is a basic workflow to help you get started with Actions
+
+name: CI
 
 # Controls when the workflow will run
 on:
@@ -19,15 +21,13 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
-      - name: Logseq Publish
+      - name: Logseq Publish 🚩
         uses: pengx17/logseq-publish@main
         with:
           version: "master"
-          dest: www
-          theme: dark
       - name: add a nojekyll file
         run: touch $GITHUB_WORKSPACE/www/.nojekyll
-      - name: Deploy 
+      - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@v4
         with:
           branch: gh-pages # The branch the action should deploy to.
