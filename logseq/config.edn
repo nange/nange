@@ -299,4 +299,5 @@
  :journal/page-title-format "yyyy-MM-dd"
  :publishing/all-pages-public? true
  :feature/enable-whiteboards? true
+ :feature/enable-timetracking? false
  }
