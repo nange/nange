@@ -2,3 +2,9 @@
 	- {{query (task todo later)}}
 	  query-table:: false
 	-
+-
+- ## Doing Task
+	- {{query (task doing now)}}
+-
+- ## Done Task
+	- {{query (task done)}}
