@@ -1,3 +1,7 @@
-## Hi there, I'm nange(LanceLi) 👋
+# Hi there, I'm nange(LanceLi) 👋
   
-  OpenSource and Database Lover.
+An opensource and database lover.
+
+* Notes: <https://nange.github.io/nange>
+* Blog: <https://nange.github.io>
+* Github: <https://github.com/nange>
