@@ -1,5 +1,5 @@
 - Hi, I'm nange. An opensource and database lover.
-	- Notes: https://nange.github.io/nange
-	- Blog: https://nange.github.io
+	- Notes: http://note.nange.me
+	- Blog: http://note.nange.me
 	- Github: https://github.com/nange
 	-
