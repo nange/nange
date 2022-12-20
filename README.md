@@ -2,6 +2,6 @@
   
 An opensource and database lover.
 
-* Notes: <http://note.nange.me>
-* Blog: <http://nange.me>
+* Notes: <https://note.nange.me>
+* Blog: <https://nange.me>
 * Github: <https://github.com/nange>
